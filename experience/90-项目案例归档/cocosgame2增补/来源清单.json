@@ -1,0 +1,1854 @@
+{
+  "schema_version": 1,
+  "integrated_on": "2026-10-17",
+  "source_root": "D:\\工具与skill等\\cocosgame2\\experience",
+  "source_docs": 210,
+  "imported_docs": 177,
+  "missing_bodies": 31,
+  "indexes_rebuilt": 2,
+  "link_rewrite_note": "正文来源哈希对应原字节；导入后哈希包含来源提示与可移植链接。历史项目文件未随包复制。",
+  "records": [
+    {
+      "source_path": "01-流程标准/Cocos-Web本地化标准流程.md",
+      "source_sha256": "fe589fe9770507c8a0f742863a8200679a5cc3453fd1964dbc2ded1e62a018ce",
+      "source_bytes": 8417,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/01-流程标准/Cocos-Web本地化标准流程.md",
+      "imported_sha256": "53e8d07546f0842aa6bfa227b19482196ea72ba28dae9a5789ab719cb7ab028d"
+    },
+    {
+      "source_path": "01-流程标准/Unity-WebGL本地化标准流程.md",
+      "source_sha256": "5f008ba0b3042400fd57b7910a5da9a140bac697b79a64d5f7beacb76a795ca9",
+      "source_bytes": 4210,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/01-流程标准/Unity-WebGL本地化标准流程.md",
+      "imported_sha256": "444398679408e5fb44cf3b1d923cc1155409b1f5c0889b3fb4b4e09ed95eda7b"
+    },
+    {
+      "source_path": "01-流程标准/跨引擎统一作业流与门禁.md",
+      "source_sha256": "9dc5254e7bafddcae5fdea21b9078435c7dac55edadc64fb15401eb27aff7fe6",
+      "source_bytes": 2165,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/01-流程标准/跨引擎统一作业流与门禁.md",
+      "imported_sha256": "f615e22aadb88ecb8af5eaf1b1526f0c63db5911e90b303f4632f77da3749be6"
+    },
+    {
+      "source_path": "02-资源与内容改造/Cocos分组烘焙网格与去重校验.md",
+      "source_sha256": "0a0139a11a8eb440ebd4dbb438b71fe3eab2e5786f05ba0d221c90cd44eec9fe",
+      "source_bytes": 1090,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/Cocos分组烘焙网格与去重校验.md",
+      "imported_sha256": "c99dc793d93945b5f0b5b6879c09338e820fd4dbd186faa2166438a315d176aa"
+    },
+    {
+      "source_path": "02-资源与内容改造/Unity到Threejs材质与预设迁移.md",
+      "source_sha256": "fc43a7cc68968db4fc535db80655e1b8ea49d12ea0cef4f1d677de28ae43ad40",
+      "source_bytes": 916,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/Unity到Threejs材质与预设迁移.md",
+      "imported_sha256": "ea7b5f2161a5b8f774a0d9349113ac2cb0e37a40dea4359b9c419a7eff67f5b4"
+    },
+    {
+      "source_path": "02-资源与内容改造/Unity粒子环形缓冲转换.md",
+      "source_sha256": "e14f5cb25447b2a3d5cc4ad1e841ab5fff53689c73462ba7614768ff66c2f97c",
+      "source_bytes": 690,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/Unity粒子环形缓冲转换.md",
+      "imported_sha256": "59b3996d699631cd699b6e530b04671c8da7de082d7f3fd6795c2fd773de5f1d"
+    },
+    {
+      "source_path": "02-资源与内容改造/多语言与分类文案导出方法.md",
+      "source_sha256": "47148720b08144decee9ed255381e468df684cfeec9c635bea3bbddedcce5177",
+      "source_bytes": 1902,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/多语言与分类文案导出方法.md",
+      "imported_sha256": "40b382ffe55d6ea61b8e3c9e1d2973ee53c0bdefe38b5ffbcd910a072505c5cf"
+    },
+    {
+      "source_path": "02-资源与内容改造/按需模块拆分的跨界面服务审计.md",
+      "source_sha256": "c157df3aadd2d5d85b5483841bcc07abcefff697d766fbcd70a2eb4d97244f05",
+      "source_bytes": 1895,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/按需模块拆分的跨界面服务审计.md",
+      "imported_sha256": "09bf8d47fd4245917cc2a082b6c0a4fd98b35b36211ea4763508f7b5ccc82f0c"
+    },
+    {
+      "source_path": "02-资源与内容改造/构建图片压缩与平台格式门禁.md",
+      "source_sha256": "54f98fee897248cb720a1d193a7dbe37886301948ba89c5cc119026219cc7966",
+      "source_bytes": 861,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/构建图片压缩与平台格式门禁.md",
+      "imported_sha256": "395c52266c77afc6780463d957e99b6406df80a309cdaba1666f2f565a09924f"
+    },
+    {
+      "source_path": "02-资源与内容改造/索引像素角色提取与拼接验证.md",
+      "source_sha256": "2b2ee97ba045875b59dd8f83d75f383c3baa0dc43fef57064eba1189dbef1ae3",
+      "source_bytes": 5942,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/索引像素角色提取与拼接验证.md",
+      "imported_sha256": "d51f1036215ca9a8a8f4bbf39105a4115f7f6a873a274bd7baae79f691cb151a"
+    },
+    {
+      "source_path": "02-资源与内容改造/资源导出修改回写统一范式.md",
+      "source_sha256": "0a5212f3bdb2719cb38b02bf24f62d15b2e7a36be870906482fa98feca60664d",
+      "source_bytes": 8733,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/02-资源与内容改造/资源导出修改回写统一范式.md",
+      "imported_sha256": "2747f9072ff798668f4715d66279eec7e5d16f9de251e31e65d3c4e2bfe637f4"
+    },
+    {
+      "source_path": "03-平台接入与发布/TT-包体分层与远程资源策略.md",
+      "source_sha256": "6cf3f5d0b27896b0b9daec9ec1705d9d78b6edfc0a9bd12dceabffbad1b9ef20",
+      "source_bytes": 1865,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/03-平台接入与发布/TT-包体分层与远程资源策略.md",
+      "imported_sha256": "8c4d63a03b962f9aefb588aa97e27d15851f8eee2726541325411e1c164e3688"
+    },
+    {
+      "source_path": "03-平台接入与发布/TT-授权与用户资料接入.md",
+      "source_sha256": "aadb797faf1b665f3b1cd94245fdc6dee8a26c760b88c202c1f501a467f3952e",
+      "source_bytes": 4305,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/03-平台接入与发布/TT-授权与用户资料接入.md",
+      "imported_sha256": "8870553b9a43caaaf5c8c07328dfdc3c7af294023fc57103deaa4f5ec2b19997"
+    },
+    {
+      "source_path": "03-平台接入与发布/远程Bundle发布模板.md",
+      "source_sha256": "951144e97526a92210dd6676299e2cc5f89fae42a0ef4d655ddb3a08e94a5f65",
+      "source_bytes": 3262,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/03-平台接入与发布/远程Bundle发布模板.md",
+      "imported_sha256": "7ee1c0ba41016a6859a92257260b007691790a97b353730b02c55ab4f2130f68"
+    },
+    {
+      "source_path": "03-平台接入与发布/远程Bundle迁移说明.md",
+      "source_sha256": "7793b6058fdb8ad16b9858ead1f8f46eb58e3a218a895eb1b340cff6284f38f6",
+      "source_bytes": 2526,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/03-平台接入与发布/远程Bundle迁移说明.md",
+      "imported_sha256": "d536c1ddc628ace67565a3cb5e4786c85eb246b4ca2bff546747485bbf69ef00"
+    },
+    {
+      "source_path": "04-排障与门禁/Unity运行时组装与收集动画验证.md",
+      "source_sha256": "a2530d5b43db33e7f7604b6a842cac4cc10936c30eccdb227f8aad725aff90b5",
+      "source_bytes": 3422,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/Unity运行时组装与收集动画验证.md",
+      "imported_sha256": "62cd8b1a4fde43c7b65a19f81f780cd8cb8dde1cafc0143caf17e9e1a31b90de"
+    },
+    {
+      "source_path": "04-排障与门禁/原生入口曝光与激活后字体核对.md",
+      "source_sha256": "7aaaf00b8f32cd7aa61923cad6c1065ab97e254e5176bc5ea1be7eea8532233d",
+      "source_bytes": 4640,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/原生入口曝光与激活后字体核对.md",
+      "imported_sha256": "978c0fa08f4c2878d7c3efc0a9f11d3ab21b359366944c5e9e93b79938bc2cda"
+    },
+    {
+      "source_path": "04-排障与门禁/原生游戏运动移植的独立验证.md",
+      "source_sha256": "1aee7408999f361328039103b83a7854121f20f0dd3ab94b347fea4ff283e2b0",
+      "source_bytes": 7654,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/原生游戏运动移植的独立验证.md",
+      "imported_sha256": "1e51f077fe1e11504cc0794c7e780a0ccd8cd505f89472212178f28b857bb12e"
+    },
+    {
+      "source_path": "04-排障与门禁/合批性能验收.md",
+      "source_sha256": "38e2167dd52f9883270f917065ef8ced9df3d91828e65903e7c0b5df76512306",
+      "source_bytes": 809,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/合批性能验收.md",
+      "imported_sha256": "8ffbc6be48f484ba8da6525f491ce2dd8e10d024fda02aafdce72d290bef32f4"
+    },
+    {
+      "source_path": "04-排障与门禁/小游戏构建产物的迭代集合回归.md",
+      "source_sha256": "5c09eab1d4a60bcf6c2e5556ce69e74c7ebe928d9d9d80bb4e69d1835046faa8",
+      "source_bytes": 1614,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/小游戏构建产物的迭代集合回归.md",
+      "imported_sha256": "bff3accf41dd7395be28a523d4f1d8542d3a851559ad79607b8ca29c1e751a28"
+    },
+    {
+      "source_path": "04-排障与门禁/异步奖励持久化与回调隔离.md",
+      "source_sha256": "10b6e74b3f7986378871f94ae78245b0839b847140d9559841416ce307a6956c",
+      "source_bytes": 1004,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/异步奖励持久化与回调隔离.md",
+      "imported_sha256": "121dd60c1a22cba5ca6e64f15b7ceb7dba4fd3e98114afc9bf69316e862f7164"
+    },
+    {
+      "source_path": "04-排障与门禁/有序闭合路线与物理搜索验证.md",
+      "source_sha256": "e20101a7d1f0cf898f7df9eacacce7de4769ab87c16d3ede4189770426c5ffeb",
+      "source_bytes": 2654,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/有序闭合路线与物理搜索验证.md",
+      "imported_sha256": "4b2634a02752bcc4d4c08249e7a9531e39a0f6438716545be1e8bf70b6bc006c"
+    },
+    {
+      "source_path": "04-排障与门禁/渲染组件编辑态与构建验证.md",
+      "source_sha256": "309f1c78b301955371d1f8b8b2c0f6b921f9dfedb179d3cec34689c551a3188f",
+      "source_bytes": 4280,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/渲染组件编辑态与构建验证.md",
+      "imported_sha256": "0fd43435ffe9a2b2fb9d88763496585e8b01b0cf2992ac802e785c81458d8b3b"
+    },
+    {
+      "source_path": "04-排障与门禁/游戏权益跨模块一致性验收.md",
+      "source_sha256": "021b4f33271bbf02c53947c715ce899af9e53dfaee53b60f4db5763d32682c9b",
+      "source_bytes": 997,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/游戏权益跨模块一致性验收.md",
+      "imported_sha256": "171a8b68b6e10ef8ee5b2db964b44ba99b0aecb5cd5dcf9091114c3b502d7a2e"
+    },
+    {
+      "source_path": "04-排障与门禁/游戏活动配置与弹窗链路核验.md",
+      "source_sha256": "d3593a9ff59c4cb4b5c17452daba09742c2158566cb72ed837d0eca6e763cba6",
+      "source_bytes": 5889,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/游戏活动配置与弹窗链路核验.md",
+      "imported_sha256": "7c84fbc3702808b0dec2b602c0dc7d986a6583e1ec20908acc5205f714271e76"
+    },
+    {
+      "source_path": "04-排障与门禁/高频问题定位与门禁手册.md",
+      "source_sha256": "79e247fdaf174b0dbd46b55099244ae5bc20a985485340bd1bbbd9c0e60f0e35",
+      "source_bytes": 12941,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/04-排障与门禁/高频问题定位与门禁手册.md",
+      "imported_sha256": "8baad1bc03ecc9fde77260665b65a3e7c2bc366d1b4f0cf279d81e5076e3f0ce"
+    },
+    {
+      "source_path": "2026-09-25-idlecat-GM模块深链接修正-阶段复盘.md",
+      "source_sha256": "d629c10cd49717d5fcceb28783096d694256cbea052cc6f2d1cf14bbcb380816",
+      "source_bytes": 531,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-25-idlecat-GM模块深链接修正-阶段复盘.md",
+      "imported_sha256": "cd018ef1b1d8ec369439b0bd1ca3e63f9ecb51e31e6327ff39cb215f326322d9"
+    },
+    {
+      "source_path": "2026-09-25-idlecat-挑战入口首点时序修复-阶段复盘.md",
+      "source_sha256": "5f55cacec64f23c235cb76d8e4cc06c36a7acddedad2f78fc80556d0ac313cb4",
+      "source_bytes": 1157,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-25-idlecat-挑战入口首点时序修复-阶段复盘.md",
+      "imported_sha256": "8247f4f504010674d4a083ac22f9ccbaa3cd58b7a73184dff4cf4820564c4eed"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-adventure-map-mask-修复.md",
+      "source_sha256": "348191d270bd4c35c8b109d94a1b98e8bc85ab0b0d2e38227b815af0edd681f8",
+      "source_bytes": 454,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-adventure-map-mask-修复.md",
+      "imported_sha256": "4ee9c94b8d0c25d93f6c97fc53789f90ea801f0dfa625332222281d62529d501"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-adventure-viewport-mask-修复.md",
+      "source_sha256": "3d065097f000f324a45e2d5c564bcd8dc7682c762702470ad0a4d8e467c48086",
+      "source_bytes": 513,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-adventure-viewport-mask-修复.md",
+      "imported_sha256": "8c2b5921d78789287800b20f472bce39718c40d92a1ae58621581e4a3cbb6318"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-challenge-font-atlas-核对.md",
+      "source_sha256": "c0e020fd3bf75e4a96b011604e7dab64ad34bc5b0ea0cc212af11e6863d3fc23",
+      "source_bytes": 1569,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-challenge-font-atlas-核对.md",
+      "imported_sha256": "91250098896844dbd23159919da5bb4727c4362a3523496a8cf82d8e79b3d7bb"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-challenge-sweep-续接核对.md",
+      "source_sha256": "58ba4900ce36595147ff9ea9cd2c71814f1f6be15953e94cc3008f5b231bb4c9",
+      "source_bytes": 1219,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-challenge-sweep-续接核对.md",
+      "imported_sha256": "92e59e952be8662624b87b7948094289a5cf08fed0744426f3454299ac492575"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-contents-hunt-boss-mask-修复.md",
+      "source_sha256": "31d7513accef6cd51b30228118f852eec6da700aaebb5b60ac957a282bcacec6",
+      "source_bytes": 475,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-contents-hunt-boss-mask-修复.md",
+      "imported_sha256": "b219cc8c845f7305c5d77c765fec1ebc03a06422ff3906baf5ec0c5012404f76"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-contents-raid-mask-修复.md",
+      "source_sha256": "e76e095084a5b55c6b7d1ddf35d0cf1cb35867999690eaa875e81f20a7c0a03c",
+      "source_bytes": 398,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-contents-raid-mask-修复.md",
+      "imported_sha256": "159100cf81f1d6204b29936d94018f442ffb29c67cc18ee2163b82093d35aaad"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-freecash-shadow-draw-order-补齐.md",
+      "source_sha256": "600d994ed74cd7232126efa4cbb32b1a12108b2841ff38e998981dfc8ddbea69",
+      "source_bytes": 1242,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-freecash-shadow-draw-order-补齐.md",
+      "imported_sha256": "be59fd490992dd0898716b43e1f435ef256c114baae454983402b1cf8154fc66"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-hunt-particle-lifecycle-对称修复.md",
+      "source_sha256": "47161b79e6fc72bfd432e20039e67c9f324852305f55a984ff0bd589a530be05",
+      "source_bytes": 1617,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-hunt-particle-lifecycle-对称修复.md",
+      "imported_sha256": "ceab86c204413095d1f3dda0c761c014cb21a6ef8a78b1924e1fc7d6ca6174e7"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-mission-viewport-mask-修复.md",
+      "source_sha256": "c746920761ff0c0e701f55f6b6fcec59ed43692200a9786f563601438e4780df",
+      "source_bytes": 1060,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-mission-viewport-mask-修复.md",
+      "imported_sha256": "05d56883aa61fc7c2f316801cb6415eca53d39e8fc7cf1be27e3c73033b19b29"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-package-font-and-remote-split-stage-review.md",
+      "source_sha256": "74c2292db2a08134833a8edbfd18caeacfde05c5dc8a7acdafe304e267878521",
+      "source_bytes": 1974,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-package-font-and-remote-split-stage-review.md",
+      "imported_sha256": "6ce42797bd0e6ab8843200ff2467f019f28e70746849bc3034856ebce2718650"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-rank-shop-viewport-mask-修复.md",
+      "source_sha256": "403ee37a1cd18b76facf520c907cfb468597bb4531bf49f190d102f6fc7b5232",
+      "source_bytes": 600,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-rank-shop-viewport-mask-修复.md",
+      "imported_sha256": "3d264dadd0d9e91a9d29dd22a22a4eb151a2e332e6607e4048470a1573563a3e"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-remote-bundle-current-rebuild-阶段复盘.md",
+      "source_sha256": "02ecca6275c74a5b8109715f4c0df5e311d437788ed9262c798234a4d1d50fa3",
+      "source_bytes": 1239,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-remote-bundle-current-rebuild-阶段复盘.md",
+      "imported_sha256": "cb9f4d3f6d3aa2a7f4626fa1489c10cae8dee1084610e8668838438f40a235a4"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-skin-viewport-mask-修复.md",
+      "source_sha256": "98475f07fbce1a81589a5ba3a5f778003e5c52d0f1cb5f5abaae68d910ac07a6",
+      "source_bytes": 720,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-skin-viewport-mask-修复.md",
+      "imported_sha256": "4081e49f5221e026029af7d4b407c2e58434851162641f7b775ed018715b02d0"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-time-provider-bridge.md",
+      "source_sha256": "bc7cf1d8f30e5784bc855a26f0289c98652ef8670a52caed03d8c5f53c6a2a70",
+      "source_bytes": 1107,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-time-provider-bridge.md",
+      "imported_sha256": "aaea0e099c9f27709f29c39e7bc3c25295907135fdc353bb697dca1b99a312b1"
+    },
+    {
+      "source_path": "2026-09-28-idlecat-tmp-glyph-cache-边界保护.md",
+      "source_sha256": "ff8ecdb3639311777ec64201e4a3e6bc1400a0c16e5266e2646bccf83d7820de",
+      "source_bytes": 748,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-tmp-glyph-cache-边界保护.md",
+      "imported_sha256": "caed29ce99e2d6385f1cf4404c79763a33b2e6f0d9c98467f8f0854891f1d6e0"
+    },
+    {
+      "source_path": "2026-10-08-rotate_rings-头像光环与撞击材质-阶段复盘.md",
+      "source_sha256": "37bc4a22b5026f2e208375cd78caf99a8690eed8a19c852d8fc3b4bee57fbc26",
+      "source_bytes": 104,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-头像光环与撞击材质-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "2026-10-08-rotate_rings-局内橡果收集-阶段复盘.md",
+      "source_sha256": "a178e20b5cb6d57b5cb9266a720d7cf5a61686e45f4a027df7a106ea43eaa691",
+      "source_bytes": 95,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-局内橡果收集-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "2026-10-08-rotate_rings-烟花道具资源与状态-阶段复盘.md",
+      "source_sha256": "e0e547ef9ffaa9883058efe68738f34957d9415bc897341c2d306facb0aa9ada",
+      "source_bytes": 104,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-烟花道具资源与状态-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "2026-10-09-rotate_rings-教学粒子停留-阶段复盘.md",
+      "source_sha256": "636e6e98322226202b4b27ec52f68cc5881be8a869a4ba1f9d8a6422e3c8c2c8",
+      "source_bytes": 95,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-教学粒子停留-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "2026-10-09-rotate_rings-烟花命中链路-阶段复盘.md",
+      "source_sha256": "72f79efb57c72cef26e20a09fe6d8fbef1265856425338763567edc56bd09044",
+      "source_bytes": 95,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-烟花命中链路-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "2026-10-09-rotate_rings-烟花正式教学-阶段复盘.md",
+      "source_sha256": "254ae581593595581ff538731723a4b7f76ba7c61b1c4e1f22dad2637ef8a907",
+      "source_bytes": 95,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-烟花正式教学-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "2026-10-09-rotate_rings-道具接收粒子-阶段复盘.md",
+      "source_sha256": "217c928474bfc71f3de0243a6aa71943a0ba4a81a277f291191988bbd8bf507b",
+      "source_bytes": 95,
+      "status": "missing_body",
+      "historical_target": "../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-道具接收粒子-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-02-11-golden-shovel-synthesis-tt-复盘.md",
+      "source_sha256": "b8784e02eb506cfe0df62b120fe71b1a5fa7a1b677fd76f2a5e36d9146b3f2fe",
+      "source_bytes": 35987,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-02-11-golden-shovel-synthesis-tt-复盘.md",
+      "imported_sha256": "c3dbbc85e106fc5b8c6f8ea5e2956b3f76a9e21771d9b22711f18c21aae341c8"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-05-daren_stilts_run-tt-复盘.md",
+      "source_sha256": "71038cf6850cc40f3ecd251299d870ad3fe631dcbc30255176d9641d6e0341aa",
+      "source_bytes": 1922,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-05-daren_stilts_run-tt-复盘.md",
+      "imported_sha256": "56f690ec49fbe217d2a50dd7f2b90ea32d09b554f7e40633450dea35136c969e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-05-doomsdayroom_web-mobile1-tt-pack-size-阶段复盘.md",
+      "source_sha256": "a1f11fbc6456ff69363cbe1023721806ee056bbb6afb85841a514adc07e1c55f",
+      "source_bytes": 2078,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-05-doomsdayroom_web-mobile1-tt-pack-size-阶段复盘.md",
+      "imported_sha256": "5f3018847e4292bbc0920c6c099614ae3dadc89d37826b45343751a4ce8d1475"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-05-doomsdayroom_web-mobile1-tt-remote-download-阶段复盘.md",
+      "source_sha256": "de570303fb8b9e28589a67eb68eb11715afaa17f5912e8133654f3b97e0464d9",
+      "source_bytes": 1618,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-05-doomsdayroom_web-mobile1-tt-remote-download-阶段复盘.md",
+      "imported_sha256": "8ef2ae1b4b8a6d640e182b028bf9d7f14d43e2fbc058ad5316fb283268a89a23"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-05-doomsdayroom_web-mobile1-tt-复盘.md",
+      "source_sha256": "e48c8b1d0a3ccda9f24d5aef930782f6861bee8186fec6b782e09e8648c9c1be",
+      "source_bytes": 2843,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-05-doomsdayroom_web-mobile1-tt-复盘.md",
+      "imported_sha256": "b706c81d2fa40194da2bf9727128c5b1218b3e3a624b5d8579df9aa6e45515c6"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-06-wx6d78da7ea5b43968-wechat-to-web-复盘.md",
+      "source_sha256": "37ddac09fe8588b53da65c678f96b274670304684f9fe9a23d40a7ea228ac511",
+      "source_bytes": 3996,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-06-wx6d78da7ea5b43968-wechat-to-web-复盘.md",
+      "imported_sha256": "2a360ab5c9faa4c3660edb8e1b03059748dc5ceafd907b6ecfeb7291b6cea468"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-10-drgm_ljpx2_lt-u3d-web本地化-里程碑复盘.md",
+      "source_sha256": "454415eacf39b0a0ae1b67b3ec89363788bb21e7f536b4c457d8355ef4c881d4",
+      "source_bytes": 2255,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-10-drgm_ljpx2_lt-u3d-web本地化-里程碑复盘.md",
+      "imported_sha256": "ae8678649ac8e2c65736bbf8f0ce26e4296b250bdaf98930861e8724083a232d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-10-drgm_ljpx2_lt-u3d-资源修改回写-里程碑复盘.md",
+      "source_sha256": "035b825b11c1236c365ac84c817f618c2e2bac200fb9fb370e72f9e9130ede1f",
+      "source_bytes": 4944,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-10-drgm_ljpx2_lt-u3d-资源修改回写-里程碑复盘.md",
+      "imported_sha256": "c57d35b9bcc4b8b78eeccda90cc07e82e110f84c3dc7ab3f0600aee3d8cf0576"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-11-drgm_ljpx2_lt-u3d-主页故事按钮隐藏-代码补丁经验.md",
+      "source_sha256": "77a9fa6d3ec88d929279e7b6fbce65a24f70e6394e253131a9708a2c489e8616",
+      "source_bytes": 2657,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-11-drgm_ljpx2_lt-u3d-主页故事按钮隐藏-代码补丁经验.md",
+      "imported_sha256": "fa0a39acf80e8ceb2588235fe27bc47155080c02c0a756a8cbab281a163fbb7d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-11-drgm_ljpx2_lt-u3d-风格生图与蒙版抠图-阶段复盘.md",
+      "source_sha256": "d3e8bdc32bec8fc0ad0a2533e720ed6864aaee7fccbccbcfd9bb5b13f4e1d1a4",
+      "source_bytes": 2944,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-11-drgm_ljpx2_lt-u3d-风格生图与蒙版抠图-阶段复盘.md",
+      "imported_sha256": "1c46b99abd84e6f495fb22884d757a2c0a0c9897ce8b3ac9ac8af7bb5c07f97e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-12-xzddd_20251212-laya-web-资源提取与glb转换-经验总结.md",
+      "source_sha256": "ce3772534d5166ba614da47d8be9668f3a4f047500a0bf5bfa138874ce7aee9f",
+      "source_bytes": 6915,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-12-xzddd_20251212-laya-web-资源提取与glb转换-经验总结.md",
+      "imported_sha256": "2b39d74b37ebe37cb775d0faa727cae43311d04cca995d5fe82c9cb349431ee3"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-12-xzddd_20251212-laya-web-阶段复盘.md",
+      "source_sha256": "8effc30d3b1c255fc7994813ab76e68f0061e73cc2434de2def5ff68bc23d488",
+      "source_bytes": 3380,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-12-xzddd_20251212-laya-web-阶段复盘.md",
+      "imported_sha256": "7c073de028de367d17f06530b8982d1a1dc3ec762cb5402be0e23fb2885b632d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-03-31-tap_gallery-android-xapk-资源提取-阶段复盘.md",
+      "source_sha256": "cc9ba973666f518a58bc2e54388a5bcdfd5ede3fb9ec7d69b838dc47bc356d9c",
+      "source_bytes": 3469,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-03-31-tap_gallery-android-xapk-资源提取-阶段复盘.md",
+      "imported_sha256": "fcb29dc0d4bcb77d5b41b4580bfd5a6849dae141a1e0a5eb33d4fe27b10f8318"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-04-10-goingball-android-xapk-关卡模型贴图提取-阶段复盘.md",
+      "source_sha256": "60e66edf58c42f6ec2f52473eb9cf91a286f0101798455ea4beeffe3cdb543e1",
+      "source_bytes": 3758,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-04-10-goingball-android-xapk-关卡模型贴图提取-阶段复盘.md",
+      "imported_sha256": "07b13dae427849d18ce04e95995f8fc60490783a30fe834ac20c3573fde48bce"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-04-17-oldproject-u3d-web本地化-阶段复盘.md",
+      "source_sha256": "eeb8c10881896dcda85c969b7b07636e3d171115a84e5a393c77f2a0711fb03d",
+      "source_bytes": 3557,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-04-17-oldproject-u3d-web本地化-阶段复盘.md",
+      "imported_sha256": "4e58476f6b9668db73f2759d68546b25fae2fa616de40bcff04592db6e268785"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-07-07-hero3-laya-wechat-h5-阶段复盘.md",
+      "source_sha256": "1d9be450596e694a51b79009452b4e50764bfaaad382a91ebe0bca62bde9a532",
+      "source_bytes": 4941,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-07-07-hero3-laya-wechat-h5-阶段复盘.md",
+      "imported_sha256": "e2819239534a470d397b96638ef718d9cf7de59568ef006d092758e62fb73a44"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-07-21-vitasort-android-il2cpp-关卡随机还原-阶段复盘.md",
+      "source_sha256": "66ca7c560537908f13df121236924a1a943584ec62c18a049df1338ce5e2d220",
+      "source_bytes": 3029,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-07-21-vitasort-android-il2cpp-关卡随机还原-阶段复盘.md",
+      "imported_sha256": "b71cdbf6debeac4daa6ced619d0ba01c922da021fa03b5584945ac98aab2fe0c"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-08-11-light_up_sort-ios-unity-资源提取-阶段复盘.md",
+      "source_sha256": "35516b2d76d7a5b115260b75209a33b7bf88bf017a4689e6441d8048b12e438f",
+      "source_bytes": 3862,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-08-11-light_up_sort-ios-unity-资源提取-阶段复盘.md",
+      "imported_sha256": "6762b887395ca76b84f4b75610453b6f30100c446d9a06e974d10ae31ce2ef81"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-07-tamaweb-native-ts-阶段复盘.md",
+      "source_sha256": "ddebeaade9f1c63a44e6bba525559248616480ae2e8f8c75287f829fbabbf086",
+      "source_bytes": 59130,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-07-tamaweb-native-ts-阶段复盘.md",
+      "imported_sha256": "6280940718944da9a8bc788624034e0a670d542f971cb7cdd10e62b9212b75df"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "source_sha256": "2a7d6e9fb76381eef4474950428d502ba7c0d071ef50a88d2e5cdde3ccd537de",
+      "source_bytes": 364147,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "imported_sha256": "5a316bbd83b83d608db45133953bb41759418ea5c1bfb2bc0ec120eea5451c7e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-08-picorally-pixijs-h5-阶段复盘.md",
+      "source_sha256": "cfee1bee2d1e6ec7c2015c2e53f03b2bb11bfb8e4861ece4de5e8553510aea3a",
+      "source_bytes": 20160,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-picorally-pixijs-h5-阶段复盘.md",
+      "imported_sha256": "b6d93745c63977d5de205d171f51a23bf9821bbbf37695bb0b60121ec7453770"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-08-qiannian-h5-人物拼接-阶段复盘.md",
+      "source_sha256": "da230e30390ad75581987907f9a1ce046f6df6eb9cc5b9c4b992c3668c2f7dc0",
+      "source_bytes": 3823,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-qiannian-h5-人物拼接-阶段复盘.md",
+      "imported_sha256": "01a5e35e30ecf0ea422576c6aca0daa7119637f789ea30a8b414e58d292190b1"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-08-qiannian-RTC兼容修复-阶段复盘.md",
+      "source_sha256": "d4feb114714a852d1819f5359344cb1da76a127875b11ca7f63d344ebeae50c0",
+      "source_bytes": 1921,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-qiannian-RTC兼容修复-阶段复盘.md",
+      "imported_sha256": "c9ded63f8d8f2396290e1398b6bde40930d885522d6f18bbfb03f0c4578d5923"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-08-qiannian-原版状态动画-阶段复盘.md",
+      "source_sha256": "c01b6172f6640fde0a2255b17ada3136f9bb8ce9263f3d338bb8b2765d19d1c5",
+      "source_bytes": 2917,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-qiannian-原版状态动画-阶段复盘.md",
+      "imported_sha256": "46100a15a2721f286b02797bb0615a96d67181c4afc7bed30ef24b17e3a84b1b"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-08-qiannian-部件创编-阶段复盘.md",
+      "source_sha256": "5bb5a652f57ce3fe713e094ed5903fffcfc973a5d2461ab520a2fa9e2d92bf96",
+      "source_bytes": 4402,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-qiannian-部件创编-阶段复盘.md",
+      "imported_sha256": "c139be0f718eb897abf4c7f63003ed94f26214d112ad4efdecba4042c350b429"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-09-canting-本地工程与礼包配置-阶段复盘.md",
+      "source_sha256": "9f174592991a7f0989455af16dcc8cd6552e5eb81a39cdbd00e54c64e9b8df7b",
+      "source_bytes": 9105,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-09-canting-本地工程与礼包配置-阶段复盘.md",
+      "imported_sha256": "b31900699c7271f62f0dafbe1bbb051b2b2a5528fb701b0d3ebeab9588a02436"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-09-tamaweb-图集透明边与遮挡校准.md",
+      "source_sha256": "908f1f0efc68265e385444afaf5c7e9abc0078cac05e685e92dd6ceccdb421ee",
+      "source_bytes": 2847,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-09-tamaweb-图集透明边与遮挡校准.md",
+      "imported_sha256": "4fe599818844d4059736873646b873399e71b3a1e132117ee7293d5955d7174f"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-13-golfbattle-threejs-关卡提取-阶段复盘.md",
+      "source_sha256": "b53cca770ed1684f00b608ddae189fafa998dfea0aacd46d4e82990f5c2db1d7",
+      "source_bytes": 1477,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-13-golfbattle-threejs-关卡提取-阶段复盘.md",
+      "imported_sha256": "3f9deaa428a359d835e51bfa6a4c66db4515e68107cce963d81dcddc6fa54e7d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-13-tamaweb-冻结回放首帧与透明叠加-阶段复盘.md",
+      "source_sha256": "deb87f9631edaccb711e6fe2b2981ba831b254b64cda2497c08dd90f541f7a6a",
+      "source_bytes": 42426,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-13-tamaweb-冻结回放首帧与透明叠加-阶段复盘.md",
+      "imported_sha256": "12ee3bf20ce58fd1eaac3a459cda8b88ccd6af855df4b091b2031320d2ffeb4e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-13-tamaweb-复活逐帧独立校准-阶段复盘.md",
+      "source_sha256": "eb1fab1827f7eecbfc668736eaa83ff95ade3af317101664ecd38ac9e51fad43",
+      "source_bytes": 1382,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-13-tamaweb-复活逐帧独立校准-阶段复盘.md",
+      "imported_sha256": "21a3b29c2ffb6688df43adc4b3b249f54c8db96f077ec97b9a5ff9efb49d9566"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-13-tamaweb-爱心图像缓存与子像素采样-阶段复盘.md",
+      "source_sha256": "71d79d7429fdc2d16f91b29aa6517c6dd6d5466c4727df42f326493a2efab22f",
+      "source_bytes": 1837,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-13-tamaweb-爱心图像缓存与子像素采样-阶段复盘.md",
+      "imported_sha256": "323ddfc5e74fff28997efe9baac29f860848293a5c4db23252892d92b2032abd"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-15-pool-资源恢复与Cocos基线-阶段复盘.md",
+      "source_sha256": "93d7dda9c88fffc1447321fa4cbe58177333455e37cab39c5348dd5e6ec4181e",
+      "source_bytes": 3359,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-15-pool-资源恢复与Cocos基线-阶段复盘.md",
+      "imported_sha256": "0f105b0f9b1e31d0c93bd46f442a8d233e0ec7fe8401806a48a5f26de617e20d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "source_sha256": "f047ab360e3a3f2a6d087464c5db8338b5a00619a925283ddcb07acba20793e1",
+      "source_bytes": 79855,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "imported_sha256": "72aad7bb409f8cabe3f23f39d393098e6e2bab4c524a063fc6ad6e46498fc39a"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-3dchar-web本地化-阶段复盘.md",
+      "source_sha256": "8edb2583e6ee492eff8707f071301c1f119bbb1b6b6600fb7440ff224db18d8d",
+      "source_bytes": 1607,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-3dchar-web本地化-阶段复盘.md",
+      "imported_sha256": "0157e93b68541629f9f2ad74fc613afbe28d53f01512d00af9ffe94e432bb5f8"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-Boss模块-阶段复盘.md",
+      "source_sha256": "91d260fdfd5a22c56968e79b61fc49c125774833037fcc0d01471fb436a6ecc4",
+      "source_bytes": 1110,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-Boss模块-阶段复盘.md",
+      "imported_sha256": "e7be2a53f71a24543cf2d1740481f87b4cf4250cb3dd31a8d021d1fccb009d8f"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-GM服务与离线收益-阶段复盘.md",
+      "source_sha256": "be593f168446f9f2f8c76bc8aacfdadf253aa655f352f87c1df488ad34bcc847",
+      "source_bytes": 1198,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-GM服务与离线收益-阶段复盘.md",
+      "imported_sha256": "41a6f98a5eddcd42f3cd236fa438e66aeaf9c728d142ece04d1374a7beefb575"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-GM面板与解锁存档-阶段复盘.md",
+      "source_sha256": "5a32fd7f8013637eae693ce5b13d8ea19d14d0a4023f4873db6c03c19be21c2e",
+      "source_bytes": 1731,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-GM面板与解锁存档-阶段复盘.md",
+      "imported_sha256": "31f7722efd268fd1a34b3eb5da663639ee92aa2204703ef97f0b657535cdfc6b"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-raid-runtime-阶段复盘.md",
+      "source_sha256": "65a9c1b2e00c9bc67d6055e6cda692088ea70fdce6c7b71e8912dfb0d9c2fb94",
+      "source_bytes": 1742,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-raid-runtime-阶段复盘.md",
+      "imported_sha256": "c646a170cf52d52cae22891a9568b4790d10d8e68aed69a92452f6cc1fe86158"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-TMP斜体输入-阶段复盘.md",
+      "source_sha256": "4699fffe94bb1a11724b7872b51e363d3ffb9f6f12b5cc2dfeb2e0a0624cfff4",
+      "source_bytes": 2352,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-TMP斜体输入-阶段复盘.md",
+      "imported_sha256": "8fcb092391b478f54bba3f1dd46de76f208aa4c5d663a569f6ebd52ca093cdd6"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-三套自动合成连续购买修复-阶段复盘.md",
+      "source_sha256": "625345a269440ea05e8713cb6e046d0c599c2b037610bd0c12fd09b9221c4e0f",
+      "source_bytes": 1685,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-三套自动合成连续购买修复-阶段复盘.md",
+      "imported_sha256": "93e13ec62e8beb902d5a0ffe2a2bb0cc7346ccef7f8e9ac5a4b5d62b6d0bfc17"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-任务时间计数与界面状态-阶段复盘.md",
+      "source_sha256": "44539a0ef3ddf46c488dbb47822531d516a35c9ec45f1deb8189c42c90db2168",
+      "source_bytes": 2207,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-任务时间计数与界面状态-阶段复盘.md",
+      "imported_sha256": "b46900d2a3adb883f8692009369f1daba474aba4d9297b25ee42a492a81fd416"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-任务规则与原子领奖-阶段复盘.md",
+      "source_sha256": "ea7488ff01f4c2d72ebff7dfee6afecac7b6482a11ab6dc3946444e1068ca91f",
+      "source_bytes": 2548,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-任务规则与原子领奖-阶段复盘.md",
+      "imported_sha256": "9db6858433a608e73d8dc06f0a74602f9e2d9332ef3924bf0dc1ad53fa0aaeb9"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-任务视觉遮罩与字体-阶段复盘.md",
+      "source_sha256": "d38b5450bbf480b8618f5945f9275db35497269e63c7b293b189d6ea016486fe",
+      "source_bytes": 1597,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-任务视觉遮罩与字体-阶段复盘.md",
+      "imported_sha256": "006dc9eb35519246d66d7b615c896dfa8e94add47f8355ab389cb7af2e1865a8"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-兑换码-阶段复盘.md",
+      "source_sha256": "6a7ff93a9cfdb523ce1f3faa51e5467357ba2571f74d0ab9bfd7dfd6aefa4130",
+      "source_bytes": 1087,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-兑换码-阶段复盘.md",
+      "imported_sha256": "4afa0f274a88fd67a2d176a5e94aa92062c750c1bfd97b11f5581bd1a0f25539"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-动态进度遮罩-阶段复盘.md",
+      "source_sha256": "8607cea51d681848ff083d218c2ecbd508b5a156f015f6e6b4c49ab4bdef47ff",
+      "source_bytes": 1598,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-动态进度遮罩-阶段复盘.md",
+      "imported_sha256": "9cfd1084753db27f878cb4a779b37befa32e2e916be090863e433be0ce2c8272"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-商店模块-阶段复盘.md",
+      "source_sha256": "15b1c6bbbc7588b151d1792d21c2e03ff58c299ee4ffb868c42a7ae7f7b776d2",
+      "source_bytes": 1925,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-商店模块-阶段复盘.md",
+      "imported_sha256": "aaa7b2fe76be1d20fab363f2b090cd0c089f42f78f0cb559e339d0a2c470b6e5"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-图片遮罩与矿山粒子-阶段复盘.md",
+      "source_sha256": "a92c24effdc6beeacc95f5e908f253d2678b32a4a87894a5b02aa0bd659e98b0",
+      "source_bytes": 1679,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-图片遮罩与矿山粒子-阶段复盘.md",
+      "imported_sha256": "3183791d8d3a9617e337e8e0bd2270fea70cde91563b433003fa8a5cba3eda4b"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-备用字体显示与GPU缓存-阶段复盘.md",
+      "source_sha256": "cdbbb08df4f5ec618aeb25d6f4fe4402efff84ae0eeed1fe04f8cb205177ed4a",
+      "source_bytes": 2472,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-备用字体显示与GPU缓存-阶段复盘.md",
+      "imported_sha256": "b573b1c4ca8af19e2b311d96fc2cb4b39d89354508f3cdd1377e3014fe0f038b"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-备用字体资源与排版-阶段复盘.md",
+      "source_sha256": "2c807d15090a53b16ff014b8b42b82a866d8c58536c4a3ec3a322fa27b8c594f",
+      "source_bytes": 2014,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-备用字体资源与排版-阶段复盘.md",
+      "imported_sha256": "e8c15cd4af802e3b7e3185ef517373d1bce929a3313a1d2d5e417ee765b70cc2"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-字体分包与废弃资源清理-阶段复盘.md",
+      "source_sha256": "1f8e0ac4a9166b888d02f76cc5a9109ec2260b7512fe285e91e389f292b1ebd4",
+      "source_bytes": 1865,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-字体分包与废弃资源清理-阶段复盘.md",
+      "imported_sha256": "6c9f3c771252bce9807159f5f4baf0c20133e21d37d90bba18999420a3014827"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-宠物模块-阶段复盘.md",
+      "source_sha256": "441e9c997f5ea31bd6ef79e9ce5bc4ce003f9bd665216f5d2360651b424062ff",
+      "source_bytes": 1754,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-宠物模块-阶段复盘.md",
+      "imported_sha256": "992fca76a85c7ef2cbe1faabb168c12cbb99575a310393fa1b4034b90f52bc04"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-持续推进工作流-阶段复盘.md",
+      "source_sha256": "9cad9fd44cb9666ae3e54c405bbec2f2069fa60162a37af8aac12ed24240ba6f",
+      "source_bytes": 1390,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-持续推进工作流-阶段复盘.md",
+      "imported_sha256": "894063434d0031971847ded5a48f67edaf2d931675338a46b9bc5f0135af8e37"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-排行榜与昵称-阶段复盘.md",
+      "source_sha256": "0901df21755cf9e1365f70b172ec6880218bc1e7ce4a3c008a15dec872c86327",
+      "source_bytes": 1251,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-排行榜与昵称-阶段复盘.md",
+      "imported_sha256": "1b6cf77bfc470add0b81eac402bbb2d55a798e099da94ce28ef76747a15408d0"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-排行榜备用字体排版-阶段复盘.md",
+      "source_sha256": "2fcf48a67f21867ad700cc8345be8f9f1862043f06add005b4d5d1085a303c1c",
+      "source_bytes": 2728,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-排行榜备用字体排版-阶段复盘.md",
+      "imported_sha256": "de71401aebe08891fadd0792aced70be86b626f8a0bf589ed031db148879edc5"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-棱镜核心商店-阶段复盘.md",
+      "source_sha256": "29595c148f2618690db0bd0c32edbc434bee701c912d0c73ed9b2a4f40fac146",
+      "source_bytes": 1043,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-棱镜核心商店-阶段复盘.md",
+      "imported_sha256": "f8f7924484ad3e613540ee8b687f2cac96202789ef57751b4fee29b317689950"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-混合字号描边-阶段复盘.md",
+      "source_sha256": "1a925c8eb161264658c7ecb8f70b4f1d5afbf9211b6f98c510bff8a427c5b942",
+      "source_bytes": 2888,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-混合字号描边-阶段复盘.md",
+      "imported_sha256": "bdb8db092da75e8e284216373bbad204f19b2e0591f02fee5ebe436da4585cb0"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-突袭同层泥土动态排序-阶段复盘.md",
+      "source_sha256": "da9ef735ab5d27711b7b2b820577a96c7ebbc22502c2242798aa833f476b6df5",
+      "source_bytes": 3491,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-突袭同层泥土动态排序-阶段复盘.md",
+      "imported_sha256": "5e8623bddb6ec6cde0a23ceb266012a7abfb3579d95429ec3640edd4aced193d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-突袭泥土独立参数-阶段复盘.md",
+      "source_sha256": "b0a1c3f72aed7d62dc4387f51b5ef752049fc1724e6ee0b396ab6d608e9997d6",
+      "source_bytes": 1265,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-突袭泥土独立参数-阶段复盘.md",
+      "imported_sha256": "69d26d29d96eb4b3939286fccaa3a50fdb9dc90671a5d5550c9df20ddb023f64"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-突袭泥土粒子接入-阶段复盘.md",
+      "source_sha256": "4061b36199da06d4c773401ee101124372b5c595b0ad68e1570c2e4c9b91395d",
+      "source_bytes": 1513,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-突袭泥土粒子接入-阶段复盘.md",
+      "imported_sha256": "7e17a1b617770de224f30e29d3680315b8867d3681f19c6250a32a04eb5802a3"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-突袭泥土粒子运动采样与局部坐标修正-阶段复盘.md",
+      "source_sha256": "f9d8b44dbef345ed917d616147b654d092bb4bdf1ae6939b36b06f48a1f551c0",
+      "source_bytes": 1045,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-突袭泥土粒子运动采样与局部坐标修正-阶段复盘.md",
+      "imported_sha256": "1a29e4c190951ab143ecad1bc15b4626022175983bbbaceda3cdd40bbeebf24e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-突袭环境粒子与入场时序-阶段复盘.md",
+      "source_sha256": "f94d31bb8b5a2203af105d1ad45b17227d73d3d7ca45ad34cb28d2056a5e52c5",
+      "source_bytes": 1434,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-突袭环境粒子与入场时序-阶段复盘.md",
+      "imported_sha256": "f256978294928dda52a0ec8ef8f486afe397ced6bd63de534c1982cc7bd54f43"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-突袭绘制顺序与构建验证-阶段复盘.md",
+      "source_sha256": "44c179ce1070abc3383bffb8c88d3f44dd74e78c9f0acc494645c4f3419dc144",
+      "source_bytes": 3571,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-突袭绘制顺序与构建验证-阶段复盘.md",
+      "imported_sha256": "7e666e1dbc510c4665b34de78ed005fb7590175cd17ad7a7756a212195919615"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-转生与原生协程校准-阶段复盘.md",
+      "source_sha256": "b758734eb9d1be666f2ba4eccbca337e8207200ad42df348d8a2fe2fedde44bb",
+      "source_bytes": 1485,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-转生与原生协程校准-阶段复盘.md",
+      "imported_sha256": "bab1a63d20decf5b4d87a477668a4a210c264818233292a9a217e0c3c2d5ec4d"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-输入光标选区几何-阶段复盘.md",
+      "source_sha256": "d4a5ba9a7259536040946abd66001332c7e7a0a0cdb87b5b4df0cc6e7721f214",
+      "source_bytes": 5348,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-输入光标选区几何-阶段复盘.md",
+      "imported_sha256": "891a14c648fd8155c0a22fd860c52b696f272afe2dfeda9c802eeea7f74ac2c3"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-输入显示末尾字符-阶段复盘.md",
+      "source_sha256": "7fcff6e75dcc20f2c0f2f9829ce083600bb4607acac93bdf01c0f6ecd7518c0a",
+      "source_bytes": 2717,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-输入显示末尾字符-阶段复盘.md",
+      "imported_sha256": "6703d240259451d34c71ee0c7ab75698951d6f7e6d79e0820324446c9c66fd63"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-输入编辑与遮罩阈值-阶段复盘.md",
+      "source_sha256": "b7618cccf45c8165549cb331f0c29071fe9f901ad91ad7e9856a453fc0eb6e29",
+      "source_bytes": 2044,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-输入编辑与遮罩阈值-阶段复盘.md",
+      "imported_sha256": "8367170bcb6a7244c2e30c8a5754f2ac8b6dbfa324c4dddb23fa3ac0d49e2a98"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-静态遮罩像素比例-阶段复盘.md",
+      "source_sha256": "428aae0004546bf58c9639e6112861113981b0d1332a4c2af95aa16b3992c615",
+      "source_bytes": 1471,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-静态遮罩像素比例-阶段复盘.md",
+      "imported_sha256": "01937de9d88cf83868de2c93dcd438d440f14855c35942b8d5a7ebef556a97ac"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-音频生命周期与构建门禁-阶段复盘.md",
+      "source_sha256": "e148ec85b3ac152cd03cbb7614ea1c6d09403062efc0a6d173c48d4de84eb695",
+      "source_bytes": 1818,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-音频生命周期与构建门禁-阶段复盘.md",
+      "imported_sha256": "15536a4f44bfaf13cfeed85f1d107c32de299d0ecef15fa05790e96644534115"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-飘字冷却与批量绘制-阶段复盘.md",
+      "source_sha256": "b6c0e5bed9a89eb4f26341b8759c83c7939f3c3f1ef52ba99f3bac6d536f30e3",
+      "source_bytes": 1408,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-飘字冷却与批量绘制-阶段复盘.md",
+      "imported_sha256": "b910da5f0fa0c72c457a432a07169f92501f0ac05f47c12957bca63c96c28804"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-飘字动画原生量化-阶段复盘.md",
+      "source_sha256": "48208f5a67b45a2bde620e2059e7f75a78459eed1263fa3e65cda72c3a21dde4",
+      "source_bytes": 1455,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-飘字动画原生量化-阶段复盘.md",
+      "imported_sha256": "a9445f9b73bc567acf6ae24bbff086e0c0c6d524230310fe7f4d7dbb46c32fb1"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-首页工具功能-阶段复盘.md",
+      "source_sha256": "dcf8b14ba6b283dd88cd6e3a739de5b867b0035fb775b11022fadd6da5eebf4a",
+      "source_bytes": 1270,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-首页工具功能-阶段复盘.md",
+      "imported_sha256": "0c65885587d5151a65fc9e3a48e94cf63545b727e9be15506b18bd5cede191e9"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-首页按钮缩放-阶段复盘.md",
+      "source_sha256": "0e4fc15d6af693c332e3dc1f84b381b50b44db4c6a56ef07fa745172b87b8945",
+      "source_bytes": 2231,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-首页按钮缩放-阶段复盘.md",
+      "imported_sha256": "a6b18918762006368ea8019cb67d846685e83a6f76c0a0aee7d502b0baf7d16f"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-鱼与宠物视觉反馈-阶段复盘.md",
+      "source_sha256": "9f996980fdd5b29fd94eefa6b252428957b28c3ba09ecee70e0e2232519b0b4c",
+      "source_bytes": 1294,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-鱼与宠物视觉反馈-阶段复盘.md",
+      "imported_sha256": "9fcd40074fca256a4d2fd92aacf6b063b3f45c2bf7ad2a24b500675a66a3a433"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-27-idlecat-鱼系统按需加载-阶段复盘.md",
+      "source_sha256": "9c861876411d52497033a27827ca3db34b3cb933e39414e2a01708a5fe409470",
+      "source_bytes": 1045,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-27-idlecat-鱼系统按需加载-阶段复盘.md",
+      "imported_sha256": "b412313305beb6d6bf8ccd95a3ffb5372a29c1da3af3f74ec4c5a5a6d3b7a0af"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-3dchar-Threejs换装与Shader-阶段复盘.md",
+      "source_sha256": "aa725418b043987ecd1711c3d9038bcf37bcab592f7ba8d4d100d78deb35f73c",
+      "source_bytes": 2214,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-3dchar-Threejs换装与Shader-阶段复盘.md",
+      "imported_sha256": "92ccd024d348b7da6e9a5b09b46ec451ad036e7983abfe435eb7ca0fa4d948ad"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-art目录来源与引用审计-阶段复盘.md",
+      "source_sha256": "5462167c360be49ce1e91b090ef784650122561bbace20a68c2b7e2486195bb4",
+      "source_bytes": 1139,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-art目录来源与引用审计-阶段复盘.md",
+      "imported_sha256": "f288b7918129a85412598e66a3178eea730e5bc60a41d400a8d7e9077e664e4f"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-art目录清理-阶段复盘.md",
+      "source_sha256": "aeb2a7c46e0c7e2de05819da80824c35a114b434ede4d46146843f594d09d66d",
+      "source_bytes": 1353,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-art目录清理-阶段复盘.md",
+      "imported_sha256": "98cc066a51735a8b429f2e934c457e46ea740906f2867dc3655339f3661f1096"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-Cocos线性渲染目标验证-阶段复盘.md",
+      "source_sha256": "084bb5a1abf7069c5eb33d2011c4fd3486b8480c631c4371faab5d7b58933188",
+      "source_bytes": 1646,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-Cocos线性渲染目标验证-阶段复盘.md",
+      "imported_sha256": "b6c312329176c13d403e7a97f4dc2d4b916223231b0c7b0d7b60a592eac14292"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-DrawCall合批优化-阶段复盘.md",
+      "source_sha256": "e63a322e2f92dc8968a8be7ad03a64e569b357d567d2d5556da43a61f9836340",
+      "source_bytes": 1475,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-DrawCall合批优化-阶段复盘.md",
+      "imported_sha256": "2fc26023e1669f9812c1d2adebcdf114e8700b8d9f454c70c1c6b9c03a230eeb"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-FreeCash曝光原生对照-阶段复盘.md",
+      "source_sha256": "1319a87f22f6fa89d1df87d499573890c2d0c883cc883a85b13ace9ff82dfb5b",
+      "source_bytes": 797,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-FreeCash曝光原生对照-阶段复盘.md",
+      "imported_sha256": "c5f196adb983f2eeac36159e7ee7b1484dd45b792bdb8d20807d969268ec9fe2"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-FreeCash面板与服务边界-阶段复盘.md",
+      "source_sha256": "84936ce4650529e77231321ec88c3d877c72bb69fd6cbdaab8fff6ecbf57e2ba",
+      "source_bytes": 1199,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-FreeCash面板与服务边界-阶段复盘.md",
+      "imported_sha256": "277e0068eb575d5aff9b7cce07efb9711910e014ff7a488cd45a83b6e8f8e8de"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-loading启动场景与远程包预加载-阶段复盘.md",
+      "source_sha256": "59a21b38c7309624de007a9d28835cccf48987a96c33b24aaf85c2ffa336b9e6",
+      "source_bytes": 2261,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-loading启动场景与远程包预加载-阶段复盘.md",
+      "imported_sha256": "3ae95e0410187e89afbfc681563dceedd762586231264f9a1065631da5e35f06"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-OfferWall入口与商店布局-阶段复盘.md",
+      "source_sha256": "aac9f86ccebf82b12c10fd77b93272009dda7fca407fc0a9374113e23f6446d2",
+      "source_bytes": 1158,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-OfferWall入口与商店布局-阶段复盘.md",
+      "imported_sha256": "569661af20c47ac1c670730fe2c82cdc88db408ff11780f7fa97035f44296c86"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-OfferWall领奖宿主-阶段复盘.md",
+      "source_sha256": "51c16a159a4f0fef05fd9a4c5554dd1c4b16b85acc2c1af9600e25cd88317a83",
+      "source_bytes": 1365,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-OfferWall领奖宿主-阶段复盘.md",
+      "imported_sha256": "7ce799f0b400e1a74964dde79869ee10c164409ea368e6c3f5c010562c67b5a8"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-PNG包体压缩与WebP平台门禁-阶段复盘.md",
+      "source_sha256": "510bd0dbcc0e4d42ab784439535c501f9c7d0b804f69be977014f48f7af47205",
+      "source_bytes": 1482,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-PNG包体压缩与WebP平台门禁-阶段复盘.md",
+      "imported_sha256": "f851187ee82331620c7fa95dc1f78ec9e71e8af13a15a15739a61635e804f1ec"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-专用Shader合批-阶段复盘.md",
+      "source_sha256": "8ab5f9e8d0cd699f2422d6d0e14474adbace2d8b725a34a78c7d71a707e0b66b",
+      "source_bytes": 2641,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-专用Shader合批-阶段复盘.md",
+      "imported_sha256": "8c6c0b46a0f4bca09e3469395ff7a0190af46e38c2ddb0761307a90eee5ce5bb"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-主线血条受击分层-阶段复盘.md",
+      "source_sha256": "c02cd3fa780306ebaede45a49475308062a731f001c3afe5fcc48609ca6ab7af",
+      "source_bytes": 1623,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-主线血条受击分层-阶段复盘.md",
+      "imported_sha256": "19362a74684bd4455dd23fc504cbbf73838754640c653b38cffbac96ce3044d6"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-主线道路碰撞-阶段复盘.md",
+      "source_sha256": "fdc4e222574b385deeb5476f77720c2e9e8c2ed548985578032e184fe78261d8",
+      "source_bytes": 791,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-主线道路碰撞-阶段复盘.md",
+      "imported_sha256": "e756d1c0edf0d5db4b018271b1f041e37a9c81cbf44242094618b9fb6b32a1d3"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-免激励广告权益补齐-阶段复盘.md",
+      "source_sha256": "2473984a3b94e803782c90ce417338aa9c03f94812c3d76a3a5b7da1d003fdaf",
+      "source_bytes": 3153,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-免激励广告权益补齐-阶段复盘.md",
+      "imported_sha256": "fa9688f2251d88b7f6c8554f682cbc5c543f9748979cdd16ba9351c3dbc881f4"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-公共提示解耦-阶段复盘.md",
+      "source_sha256": "659e513deca5563601668a85b0c451f6be3cd76fe24af667bead50ff12d0313b",
+      "source_bytes": 1471,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-公共提示解耦-阶段复盘.md",
+      "imported_sha256": "8f2d57bf02d4f84aa2959863ad7a1b23578352e640418bc89888a3bbbf45a246"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-原版Vulkan粒子渲染输入-阶段复盘.md",
+      "source_sha256": "c31cac5b3e60b2a05633b25630c0771b2214dc18af6ed1f64d78e254150f4fd3",
+      "source_bytes": 1300,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-原版Vulkan粒子渲染输入-阶段复盘.md",
+      "imported_sha256": "1c9008b4c7ab896f51357b3d8347e752361f798edc42afb478b8da11055fccc8"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-原版粒子线性混合像素-阶段复盘.md",
+      "source_sha256": "11be199458ab18e983e0ae9b8c923439dc5f72b17f4a38946bec28cb0bf31e44",
+      "source_bytes": 1490,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-原版粒子线性混合像素-阶段复盘.md",
+      "imported_sha256": "c1f130864df0f5a56553dcea392bb9d9e68fc4de77bb5ee7809072afb9301ba4"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-原版粒子缩小纹理-阶段复盘.md",
+      "source_sha256": "a9a6884770c6b300831730569c902cc5d1cd008378f9e01bd5ccd3fee9a2cac5",
+      "source_bytes": 1536,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-原版粒子缩小纹理-阶段复盘.md",
+      "imported_sha256": "8c769ec8adc517de17db05220a842d4aec24130f859b37935923a80fe2eacd45"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-原版粒子顶点颜色与图集方向-阶段复盘.md",
+      "source_sha256": "f9d559d8b1dc0a3bc770b5896ce64986cc57f15c9c644a2a7c63527299eb169d",
+      "source_bytes": 1479,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-原版粒子顶点颜色与图集方向-阶段复盘.md",
+      "imported_sha256": "c2ce9f9932ff9cf6d53c39a3d70d0c626e26d7a364c5632d55ce23a10f34931e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-场景查询缓存与FPS-阶段复盘.md",
+      "source_sha256": "25a01ffb34ede4a415b50c7e1e28eae4debbc4fee03c5371eac5cf3cc91c0c34",
+      "source_bytes": 1255,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-场景查询缓存与FPS-阶段复盘.md",
+      "imported_sha256": "61f57fcfe51c5b9a19fdacf04158a0d1452e8507d547905c1c9746bad8aee0f1"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-挑战付费扫荡-阶段复盘.md",
+      "source_sha256": "79d15f705d110dbae22ce740f52eaa4704058bb18d0f9e83b72af7ee58c798e8",
+      "source_bytes": 1470,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-挑战付费扫荡-阶段复盘.md",
+      "imported_sha256": "2fa611465c76235e34a62378ca2e8b1a12f3056f40a18adaa04a3fb61e92bd42"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-挑战血条与性能门禁-阶段复盘.md",
+      "source_sha256": "473aca1490c1f0ac6bddbbf297ae31b8193131be105aafadd09021cb49436d1a",
+      "source_bytes": 1496,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-挑战血条与性能门禁-阶段复盘.md",
+      "imported_sha256": "dfe9f5b9a8de9fddf2f82928e11814ae0a8f70fb64fd91e7050e1438f5cc0c11"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-普通弹道SparkTrail速度继承修正-阶段复盘.md",
+      "source_sha256": "9673bf287f179632ab272dfaade604d23bf318757b505ad08a00d8a1c8e3f555",
+      "source_bytes": 1813,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-普通弹道SparkTrail速度继承修正-阶段复盘.md",
+      "imported_sha256": "c639bbc09c6ffcdd27f69d40e1e2c3ecd62313e24df09b8599e7d2c578bf8bb9"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-普通挑战胜利奖励-阶段复盘.md",
+      "source_sha256": "f23460c93c009ed3713ea904847debb0b416df26fc2b9f699217a3f2c86de833",
+      "source_bytes": 1285,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-普通挑战胜利奖励-阶段复盘.md",
+      "imported_sha256": "8f50a5317c7f49ed978a07dc1352dd92e75fcd9c12eb44682c2103cb78e8d354"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-服务器配置宿主接入-阶段复盘.md",
+      "source_sha256": "ee8b69151834b2a29c3ec80d10ffbff806b27104c53f5598ff073fed8cd03265",
+      "source_bytes": 1300,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-服务器配置宿主接入-阶段复盘.md",
+      "imported_sha256": "f1197eea2c1a570aac51bc2350e727625333dd67dbaa78638973b08f7c01616e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-服务器配置缓存-阶段复盘.md",
+      "source_sha256": "a5404cd589433c74b0660a019eadd8e7072001f0ca2b8e8f403823ed5ed40cf6",
+      "source_bytes": 1098,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-服务器配置缓存-阶段复盘.md",
+      "imported_sha256": "112342906e9c543a9b3fbe53f037c2e38fadf624ad80ece255afaf820dd52651"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-服务器配置调度-阶段复盘.md",
+      "source_sha256": "d1a8ec9884ff806c5457d20449efc6f26eec4cb8ff8eeafbf93ba58dd0835fbd",
+      "source_bytes": 1432,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-服务器配置调度-阶段复盘.md",
+      "imported_sha256": "9558c06c3821875ffc5193c79f32429a0f0b7eb5eacadc2de2fd734419a362d9"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-模式地面裁切-阶段复盘.md",
+      "source_sha256": "20828d8e2a08a89e419994237d134482bae072cbb0bf7ce562f9d92ac1dafded",
+      "source_bytes": 1491,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-模式地面裁切-阶段复盘.md",
+      "imported_sha256": "33bb189b7a1ba3a2635dd44b950b258e92ec1649f6f35c140f2a6520806d6048"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-模式碰撞与文字合批-阶段复盘.md",
+      "source_sha256": "68941ed76009243d55aa0c5180cd84ef2c0f04a1d54cc6a9429a2e35c28742e3",
+      "source_bytes": 1288,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-模式碰撞与文字合批-阶段复盘.md",
+      "imported_sha256": "81de1adca5660f9fbb885d1463d30736a3987f43d6435a7d57f0550b165caba2"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-武器公共反馈与商店解耦-阶段复盘.md",
+      "source_sha256": "d774e2219eedc29d776a7d72cae9b789814b93103020e8ef3cfe9d7f454ce988",
+      "source_bytes": 1420,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-武器公共反馈与商店解耦-阶段复盘.md",
+      "imported_sha256": "0e502869e42b5b94b51ef5a5c622f6c093e97e00b9d79aa054c611c4111eaca4"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-武器按需加载与锚点补算-阶段复盘.md",
+      "source_sha256": "b7f71419d3cc335b9c5b84658ea212f3b17c566f57ab866b3e72ea4a11d01d8d",
+      "source_bytes": 2864,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-武器按需加载与锚点补算-阶段复盘.md",
+      "imported_sha256": "8b3572917341e258845d943851dee451c1e3fc792c5bbe3cfcc8f8fafd46c886"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎Slime初始重叠-阶段复盘.md",
+      "source_sha256": "51559a9837969f72f716a9f6e5939b3eefb8f76d17a29f1315fc648869812717",
+      "source_bytes": 1423,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎Slime初始重叠-阶段复盘.md",
+      "imported_sha256": "8050532ef2e095e2a2e9f67acdb547029332607694e10eaa97ccb2832d726745"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎全局粒子生命周期修复-阶段复盘.md",
+      "source_sha256": "5ae1d827a0f3c549560c7ef16b3b31dc1f85a73735c2d02fbd923c3d91252fd7",
+      "source_bytes": 5293,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎全局粒子生命周期修复-阶段复盘.md",
+      "imported_sha256": "8ffeed557c0322203a27eda7da00c2132fb5c3ab40b7a816121765a8764aa5b8"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎粒子出生与自由运动还原-阶段复盘.md",
+      "source_sha256": "8991455bad55cc1eaf11804aa584714d344f9ffeec3995411765cac2ac4391a3",
+      "source_bytes": 4506,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎粒子出生与自由运动还原-阶段复盘.md",
+      "imported_sha256": "bf6c9b665d36cc859301b02476091f4e82379bf93b6f01fff80ffcb337c2b0b2"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎粒子碰撞还原-阶段复盘.md",
+      "source_sha256": "952f253aa19e62b7db85be5aea03593651289f77d35ba3e6842e6a38746bcb4d",
+      "source_bytes": 3982,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎粒子碰撞还原-阶段复盘.md",
+      "imported_sha256": "91c8bd11afa11f2fc1a039fc146f49c774990d32edb4c3dbfdb71bffe7eb87de"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎粒子队列与偏移-阶段复盘.md",
+      "source_sha256": "ec6ebc26bfd11b1a3bd35ad25c52829970032c7e267520226fef781f4763dac4",
+      "source_bytes": 5609,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎粒子队列与偏移-阶段复盘.md",
+      "imported_sha256": "6566f32c7ab8eba4ad0b3260810b7dce9aa20d99c72460655a9e7f1051ab112a"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎血条随动分层-阶段复盘.md",
+      "source_sha256": "c3b99e88257f9e1818640a389faf6d448d7ef60716f2967bb753042eb7407bb5",
+      "source_bytes": 3249,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎血条随动分层-阶段复盘.md",
+      "imported_sha256": "add611657f54a407f3432ead2f94ee51344b0736267c3efe28632a29e11bd5e6"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-狩猎跨模式粒子寿命-阶段复盘.md",
+      "source_sha256": "c5cf1428409830bf691e4e4358649030769f34047a12c99627c1e337433b4876",
+      "source_bytes": 4382,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎跨模式粒子寿命-阶段复盘.md",
+      "imported_sha256": "d7ad83158fd6d0ee3674c7b735768950a53371a8340f9325f952e4c4344ebd88"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山入口与Prefab-阶段复盘.md",
+      "source_sha256": "5fd24caf1b62009d9f293412ee3678086930e6dea215d4c6edc337194e4813e1",
+      "source_bytes": 1347,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山入口与Prefab-阶段复盘.md",
+      "imported_sha256": "1df1f59b71a406697d1745154f2b529332ab5437f3ee69c611f51157e2b5cb38"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山全局碎石生命周期还原-阶段复盘.md",
+      "source_sha256": "37707e59642c36759d491340406aee795a7e326978e8f915cccc913f5c55c707",
+      "source_bytes": 4692,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山全局碎石生命周期还原-阶段复盘.md",
+      "imported_sha256": "51e3a252ce61be984f0abfff8d9e139f97b0cdc84038104e92b03a097e299e2a"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山出生属性-阶段复盘.md",
+      "source_sha256": "80bb6da0fb7a7d891009e7d97bae96badcd0447078b72cffc1e362a2a478acba",
+      "source_bytes": 1191,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山出生属性-阶段复盘.md",
+      "imported_sha256": "f37fe8cde0df58789376b78413212d8e64e986ed09aabcdd227247362dbbba2a"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山地面材质-阶段复盘.md",
+      "source_sha256": "4df93677c77392a099992786bd8e59554d5acd7102e9b99639c5fe3db0b39d57",
+      "source_bytes": 1470,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山地面材质-阶段复盘.md",
+      "imported_sha256": "fe9cec24ea4eb16664f5f0f669c72a951d2269ed137fdc8dc3a8ace9d42f24f0"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山布局排序-阶段复盘.md",
+      "source_sha256": "529d9dd4eb93fa6ec39dc26bd770a1acce831627b73a4baaa79eda53340ca3f5",
+      "source_bytes": 1749,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山布局排序-阶段复盘.md",
+      "imported_sha256": "8f1f9c2411a4b602d93ceabdc124a24c80ca43061cb8f4080482db7fc4e6cefe"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山旋转时序-阶段复盘.md",
+      "source_sha256": "ef3683dce73929996df5dd7e61fc7b8ce38d6eca14494f00ad97223abb851c5b",
+      "source_bytes": 1277,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山旋转时序-阶段复盘.md",
+      "imported_sha256": "3379ab36e5d9f3b6b0e3594ab809f103a490ef68b8e8ec3683bdfc6af89c2ce3"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山碎石碰撞-阶段复盘.md",
+      "source_sha256": "a31d2761d29ac34330039678ec41d49d03eb4cc7fb2ebd1980a4e8d54bb7ea83",
+      "source_bytes": 1160,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山碎石碰撞-阶段复盘.md",
+      "imported_sha256": "c73ba10524e67436997ad1b8f1ee9c56cd6f75c1d56d1996cc04e84c10a4b54e"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山碎石绘制顺序-阶段复盘.md",
+      "source_sha256": "8227421a129c95cc0c1b64f78e6b5fa7dcac91ec25fcfbfe36a0e4e52d8d924f",
+      "source_bytes": 3969,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山碎石绘制顺序-阶段复盘.md",
+      "imported_sha256": "1d75fdbf9898d2f9cfb5d52f21c5a3a39dcb3b5b70fb88e46e38fb5793837284"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山碎石轨迹-阶段复盘.md",
+      "source_sha256": "e4e2ee983ab2f93141cbea05e2a8835136fbe038beedd92f628b92ebe73a1ea0",
+      "source_bytes": 1079,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山碎石轨迹-阶段复盘.md",
+      "imported_sha256": "83e25e2d21d9c7767683197b749ea316f9602ef7e0596aed2c2ed44a542d1981"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山碎石队列缺口-阶段复盘.md",
+      "source_sha256": "202d0a14f45fb60b46c3a4996a338736725ab844fe97ee255478615ee70c53c8",
+      "source_bytes": 3878,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山碎石队列缺口-阶段复盘.md",
+      "imported_sha256": "dda871c5ee144efc8acaae273f03a5d91aaaf6f1ee0da02bbb16308de9998e04"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山血条分层-阶段复盘.md",
+      "source_sha256": "114eda36caa3347c39b528529eeddd0706e6c73d626462107066235075e19e81",
+      "source_bytes": 1787,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山血条分层-阶段复盘.md",
+      "imported_sha256": "6fc1ac548b3a84dc24c090a4511ad7e6eeab96d1f07fd5ca5cde0a6140c26a2c"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-矿山飘字与HUD-阶段复盘.md",
+      "source_sha256": "25c82f1fa133946f4c283738cd841021189dc7f985abef8c707fa930f8ec60b5",
+      "source_bytes": 1339,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-矿山飘字与HUD-阶段复盘.md",
+      "imported_sha256": "f652b54294749409def444b4ed7f40caf21351a2b118491e2505e2f832ab5422"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-粒子初始重叠与物理查询调查-阶段复盘.md",
+      "source_sha256": "7f0ef4d4bd4bd701aff17af913c7019b38aaca8538563c9fb3f2547e6a52ddef",
+      "source_bytes": 4648,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-粒子初始重叠与物理查询调查-阶段复盘.md",
+      "imported_sha256": "08c296d121c71ead5c2d511727239b506128e5405d9e885ec208a0a8595621c7"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-粒子斜面与低速接触还原-阶段复盘.md",
+      "source_sha256": "c4069ee5a9bd34cff28169f23f7c3932edc4a9dc2213a6fa85ab4e4fec17e804",
+      "source_bytes": 4529,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-粒子斜面与低速接触还原-阶段复盘.md",
+      "imported_sha256": "9a6cc5364e7ebf2e96ece5567207a941b1957b277912786056d6746842819cd5"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-粒子重叠接触与圆盘出生分布-阶段复盘.md",
+      "source_sha256": "e99f29dc50adfe66174de2cb1751b9d48361c684abbe8ca6323dc3cf179baba3",
+      "source_bytes": 5952,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-粒子重叠接触与圆盘出生分布-阶段复盘.md",
+      "imported_sha256": "e4fdd1ec60ece570d0a56f7fe8c314c5bce540d2261ea38c2e5baf14cb91a100"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-粒子颜色与缩小曲线-阶段复盘.md",
+      "source_sha256": "ee036fd420bd2ef8f21cf9a08c993cf76020d05504ead15b649449260802a326",
+      "source_bytes": 1196,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-粒子颜色与缩小曲线-阶段复盘.md",
+      "imported_sha256": "47f6e47770c162e2ce94efa1cfa888f148dc7388c1a8ca218a191010acb0225c"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-设置静音偏好持久化-阶段复盘.md",
+      "source_sha256": "0f2a27e7333e5c10ffd64f3fbda9011fa6e46eb85d6e8cccff36c628e3facea4",
+      "source_bytes": 1960,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-设置静音偏好持久化-阶段复盘.md",
+      "imported_sha256": "f4da7be6a8725a835c2ffae304abc45c5f8bd5301409185475e082a8195dfe27"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-进度条条纹越界修复-阶段复盘.md",
+      "source_sha256": "e5f631d5f439107ee3a7e9c04905b257e545f921fa271ff33c703b741e84285c",
+      "source_bytes": 2646,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-进度条条纹越界修复-阶段复盘.md",
+      "imported_sha256": "fd87d527693444efe10ad312164e6bfb7e3e93bbc74dc401ef3d43334ad3a382"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-远程资源构建隔离-阶段复盘.md",
+      "source_sha256": "7a8a8213a2cc9f4357fbef90aa75006c204b2b9549c1a25856db3a43f88af0ce",
+      "source_bytes": 1333,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-远程资源构建隔离-阶段复盘.md",
+      "imported_sha256": "16569d3da5dfe055aae46206dfbca14502552a4236fade21a18c420da9a435c9"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-配置初始化与购买历史-阶段复盘.md",
+      "source_sha256": "88955aa60e85681087f91be4c993167cc31c6069cebae899ce870f93a84aed09",
+      "source_bytes": 1289,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-配置初始化与购买历史-阶段复盘.md",
+      "imported_sha256": "788747fd4af7605e3e5f3691a95629d9fcb0c72ad2e090ec6e0f018f08959142"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-09-28-idlecat-配置归因与响应落盘-阶段复盘.md",
+      "source_sha256": "fa675730a62b5b808eb9e69f500d5f4f4aea91828458da59c0537612a92e0ec4",
+      "source_bytes": 1204,
+      "status": "imported",
+      "destination": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-配置归因与响应落盘-阶段复盘.md",
+      "imported_sha256": "901cf8da75d8689c166f26597231fc2ac87ff2e40ded700299585fcd26bb954b"
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-Frida粒子时钟与松手消除-阶段复盘.md",
+      "source_sha256": "32a8639fee16e940fce03a530ec7904bab624bef0f29019fb0d7517eba0e0597",
+      "source_bytes": 112,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-Frida粒子时钟与松手消除-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-rank-prefab-阶段复盘.md",
+      "source_sha256": "a390eba6a3e254661cecd779eb331c6b79b0066d2a6e59f7fa555a7f374d50f9",
+      "source_bytes": 91,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-rank-prefab-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-业务代码与关卡核查-阶段复盘.md",
+      "source_sha256": "04bce911024ecd06806ec8169423c1b92e957bd5041a4f32a4d73d1d964f3190",
+      "source_bytes": 107,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-业务代码与关卡核查-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-原生入场与结算转场-阶段复盘.md",
+      "source_sha256": "cc47f25f4bac4023f6cc91a3cf72c65acaa41d42fcbe3be37c28b794cc7331f1",
+      "source_bytes": 107,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-原生入场与结算转场-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-圆环明暗与投影-阶段复盘.md",
+      "source_sha256": "37b34aaee01f9e5846f7fee94a5dd36c89193810be22169459da147f751b1aad",
+      "source_bytes": 101,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-圆环明暗与投影-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-局内材质与首关引导-阶段复盘.md",
+      "source_sha256": "ac22ba6c4d7c530bb1634511236ecb39eda98fad69d4d01489c53d525319bee1",
+      "source_bytes": 107,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-局内材质与首关引导-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-橡果结算与Combo-阶段复盘.md",
+      "source_sha256": "6c3dfa1f75efb4ff2bf934e3e4095405f73ffb1c1c3658ac57bd24f2b21a342b",
+      "source_bytes": 100,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-橡果结算与Combo-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-08-rotate_rings-橡果解锁九宫格与结算时序-阶段复盘.md",
+      "source_sha256": "4221da76371e36ed8631ca724bf452b3689ac1d137e0ff992d2d5dcc9b0f4dd2",
+      "source_bytes": 116,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-08-rotate_rings-橡果解锁九宫格与结算时序-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-50关独立网格组-阶段复盘.md",
+      "source_sha256": "f3f7416ffef2c5a835517fbdb3718b80e7aae859b252dfb2a53fd72ca6530ec5",
+      "source_bytes": 100,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-50关独立网格组-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-prefab-links-阶段复盘.md",
+      "source_sha256": "e1e8bdd5feff2aec6a74c919c2a87d4afa938845133bd9f48fd398735aad8b40",
+      "source_bytes": 92,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-prefab-links-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-果冻材质与反馈-阶段复盘.md",
+      "source_sha256": "759a5711ae79f01a69a777e201953001fad53ba919c5e08af010e601148cf06d",
+      "source_bytes": 101,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-果冻材质与反馈-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-滑杆规则与收集标记-阶段复盘.md",
+      "source_sha256": "4eef535ed9405893d5015beba559e50ac00a14635f846dcafe55779c0ad13f7c",
+      "source_bytes": 107,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-滑杆规则与收集标记-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-炸弹教学循环-阶段复盘.md",
+      "source_sha256": "4701c117f816179786768f23dc34489af9c4fc822aa439b220ab8c3ee10a38a5",
+      "source_bytes": 98,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-炸弹教学循环-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-炸弹锁链组合验收-阶段复盘.md",
+      "source_sha256": "1bdbb64e2a338e1824c2ffa5127b15b06e1638b14d03172132fb5ed10711979c",
+      "source_bytes": 104,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-炸弹锁链组合验收-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-烟花尾焰与爆炸-阶段复盘.md",
+      "source_sha256": "702fc52b23992148dfcb55c5e354bfd1971d87eee7880cea2778b490b2466496",
+      "source_bytes": 101,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-烟花尾焰与爆炸-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-特征覆盖与木质材质-阶段复盘.md",
+      "source_sha256": "798d5d27f58a3559efa6e72fac57aaa7df9097d4487994a3e08e67fd28bf5cb2",
+      "source_bytes": 107,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-特征覆盖与木质材质-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-蝴蝶双槽关系准备-阶段复盘.md",
+      "source_sha256": "3f13b29185fb44f0a8e3f73fe6f455a01af494f95c8f53f351523cb448bf1278",
+      "source_bytes": 104,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-蝴蝶双槽关系准备-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-蝴蝶组合正常开放-阶段复盘.md",
+      "source_sha256": "136851049d5353a9dba90f8187ae7d49f1717800ea242eac81081afaeed77165",
+      "source_bytes": 104,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-蝴蝶组合正常开放-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-通用Prefab与JSON清理-阶段复盘.md",
+      "source_sha256": "e50dec23904706a767f78ef1d9ce0e07631c344a77919f1de2e05c4949f53d33",
+      "source_bytes": 105,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-通用Prefab与JSON清理-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-道具接收粒子-阶段复盘.md",
+      "source_sha256": "3c7013cb6ae5a69f70f4712b5dda87ebb5059d4795dc82d93c454cb4439e948c",
+      "source_bytes": 98,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-道具接收粒子-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-道具提示曲线修复-阶段复盘.md",
+      "source_sha256": "73249db5b42ece6de1a3834f30cfc1e1b14772366dc825efc6b20698f001bb3d",
+      "source_bytes": 104,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-道具提示曲线修复-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-金属材质与逐片段音量-阶段复盘.md",
+      "source_sha256": "4f01182f948a7c221d78b291837d2347325d7e29ddd430a3c865f1e9a4dccd6d",
+      "source_bytes": 110,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-金属材质与逐片段音量-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-锁链规则准备-阶段复盘.md",
+      "source_sha256": "225f59bf55d1f635fd81d36b4faf4bb6eba3b1641e2ae47e75653fa55629bdbc",
+      "source_bytes": 98,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-锁链规则准备-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/2026-10-09-rotate_rings-锁链运行时接入-阶段复盘.md",
+      "source_sha256": "b492b3a92dc49a1d7328326b09658f73674bdeb2db878309bf2626603eb9ffb1",
+      "source_bytes": 101,
+      "status": "missing_body",
+      "historical_target": "../../../roaterings/docs/retrospectives/2026-10-09-rotate_rings-锁链运行时接入-阶段复盘.md",
+      "target_present": false
+    },
+    {
+      "source_path": "90-项目案例归档/README.md",
+      "source_sha256": "b1be643b45ce2dd00a009f3e4b4950ff944b23d87c93a0d14174374ed972bc9b",
+      "source_bytes": 31108,
+      "status": "index_rebuilt"
+    },
+    {
+      "source_path": "README.md",
+      "source_sha256": "b75866eaac14268343451ec02f3b67b1617ece464cfe89291fcca12dcaf62a13",
+      "source_bytes": 37485,
+      "status": "index_rebuilt"
+    }
+  ],
+  "unbundled_link_references": [
+    {
+      "document": "experience/05-复杂还原方法/README.md",
+      "target": "../90-项目案例归档/cocosgame2增补/来源清单.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/2026-09-28-idlecat-challenge-font-atlas-核对.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/challenge-typography-20260928/atlas-pointer-audit.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/goingball/clientThreeJS/docs/PROGRESS.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/goingball/clientThreeJS/docs/PICKUP_PARITY.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/goingball/clientThreeJS/docs/IN_LEVEL_PLAN.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/goingball/clientThreeJS/docs/LEVEL_PROGRESSION.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/goingball/clientThreeJS/docs/MAIN_LEVEL_MECHANISMS.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-08-goingball-340-threejs-交互复刻阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/goingball/clientThreeJS/docs/MUMU_SAVE_WORKFLOW.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/移植清单.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/软件设计.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/流程优化.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/joystick-input.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/cat-target.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/auto-velocity.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/auto-approach.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/auto-retreat.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/enemy-colliders.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/cat-raycast.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/attack-target.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/target-indicator.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/target-rotation.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/main-cat-controller.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/cat-spread.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/attack-cooldown.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/attack-providers.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/hand-aim.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/face-aim.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/resolution-prefab-boundary.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/main-fire-dispatch.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/shot-recoil.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/muzzle-effects.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/muzzle-replay.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/native-muzzle-play.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/cat-skin-selection.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-24-idlecat-静态解密与原名美术导出-阶段复盘.md",
+      "target": "evidence/native-latin-font.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-loading启动场景与远程包预加载-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/loading-bootstrap-20260928.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-普通弹道SparkTrail速度继承修正-阶段复盘.md",
+      "target": "../../../../idlecat/idlecat/docs/evidence/normal-bullet-glow-20260928/sparktrail-audit.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-普通弹道SparkTrail速度继承修正-阶段复盘.md",
+      "target": "../../../../idlecat/idlecat/docs/evidence/normal-bullet-glow-20260928/resolution.md"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/90-项目案例归档/2026-09-28-idlecat-狩猎Slime初始重叠-阶段复盘.md",
+      "target": "/Users/jiaojian/Documents/idlecat/idlecat/docs/evidence/hunt-slime-physics-20260928/overlap-runtime-verification.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/cocosgame2增补/README.md",
+      "target": "来源清单.json"
+    },
+    {
+      "document": "experience/90-项目案例归档/README.md",
+      "target": "cocosgame2增补/来源清单.json"
+    }
+  ]
+}

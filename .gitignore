@@ -1,0 +1,25 @@
+# Local workspaces and runtime outputs
+/myprojects/
+/logs/
+/output/
+/outputs/
+/sourceImages/
+/sourceConfigs/
+/webprojects/
+/input/
+
+# Caches, editor and VCS metadata
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.svn/
+.vs/
+node_modules/
+**/bin/
+**/obj/
+*.tmp
+*.bak
+.env
+.env.*
+!.env.example

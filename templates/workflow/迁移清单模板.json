@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "project": "待填",
+  "source": {"engine": "待确认", "version": "待确认", "platform": "待填", "input_sha256": "待填"},
+  "target": {"goal": "待填", "engine": "待填", "version": "待填", "platform": "待填"},
+  "items": [
+    {
+      "id": "scene-start",
+      "kind": "scene",
+      "source_identity": {"package_sha256": "待填", "file": "待填", "object_id": "待填", "instance_scope": "待填"},
+      "target_asset": "待填",
+      "target_uuid": "待填",
+      "consumer_or_entry": "待填",
+      "source_state_and_steps": "待填",
+      "evidence": {"static": [], "source_runtime": [], "target_runtime": [], "build": []},
+      "validation_status": "未开始",
+      "differences": [],
+      "unknowns": [],
+      "next_action": "待填"
+    }
+  ]
+}
